@@ -1,4 +1,4 @@
-```
+```mermaid
   erDiagram
     categories {
         INT category_id PK
